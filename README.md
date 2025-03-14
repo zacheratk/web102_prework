@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/vx2ygGA' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='./assets/websiteDemo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](https://www.cockos.com/licecap/)
 
